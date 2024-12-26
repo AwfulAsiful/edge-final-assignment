@@ -16,6 +16,7 @@ export default {
       },
       backgroundImage: {
         'custom-image': "url('/src/assets/Images/BG Vector.png')",
+        'custom-gradient':"linear-gradient(0deg, rgba(0, 0, 0, 0.10) 0%, rgba(0, 0, 0, 0.10) 100%), linear-gradient(141deg, #EB5231 -29.15%, #571FCF 151.64%)",
       },
     },
   },
