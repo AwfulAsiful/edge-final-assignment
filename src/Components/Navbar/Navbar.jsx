@@ -39,8 +39,8 @@ function Navbar() {
             Lang
           </option>
           <option>English</option>
-          <option></option>
-          <option>Action</option>
+          <option>Bangla</option>
+          <option>Arabic</option>
         </select>
       </label>
 
